@@ -1,0 +1,6 @@
+C:\Users\esteb\OneDrive\Escritorio\ParcialFinal\BaseDeDatos\bin\Debug\BaseDeDatos.dll
+C:\Users\esteb\OneDrive\Escritorio\ParcialFinal\BaseDeDatos\bin\Debug\BaseDeDatos.pdb
+C:\Users\esteb\OneDrive\Escritorio\ParcialFinal\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.AssemblyReference.cache
+C:\Users\esteb\OneDrive\Escritorio\ParcialFinal\BaseDeDatos\obj\Debug\BaseDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\esteb\OneDrive\Escritorio\ParcialFinal\BaseDeDatos\obj\Debug\BaseDeDatos.dll
+C:\Users\esteb\OneDrive\Escritorio\ParcialFinal\BaseDeDatos\obj\Debug\BaseDeDatos.pdb

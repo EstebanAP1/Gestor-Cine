@@ -1,0 +1,9 @@
+C:\Users\esteb\OneDrive\Escritorio\ParcialFinal\ReglaDeNegocios\bin\Debug\ReglaDeNegocios.dll
+C:\Users\esteb\OneDrive\Escritorio\ParcialFinal\ReglaDeNegocios\bin\Debug\ReglaDeNegocios.pdb
+C:\Users\esteb\OneDrive\Escritorio\ParcialFinal\ReglaDeNegocios\bin\Debug\BaseDeDatos.dll
+C:\Users\esteb\OneDrive\Escritorio\ParcialFinal\ReglaDeNegocios\bin\Debug\BaseDeDatos.pdb
+C:\Users\esteb\OneDrive\Escritorio\ParcialFinal\ReglaDeNegocios\obj\Debug\ReglaDeNegocios.csproj.AssemblyReference.cache
+C:\Users\esteb\OneDrive\Escritorio\ParcialFinal\ReglaDeNegocios\obj\Debug\ReglaDeNegocios.csproj.CoreCompileInputs.cache
+C:\Users\esteb\OneDrive\Escritorio\ParcialFinal\ReglaDeNegocios\obj\Debug\ReglaDeNegocios.csproj.CopyComplete
+C:\Users\esteb\OneDrive\Escritorio\ParcialFinal\ReglaDeNegocios\obj\Debug\ReglaDeNegocios.dll
+C:\Users\esteb\OneDrive\Escritorio\ParcialFinal\ReglaDeNegocios\obj\Debug\ReglaDeNegocios.pdb
